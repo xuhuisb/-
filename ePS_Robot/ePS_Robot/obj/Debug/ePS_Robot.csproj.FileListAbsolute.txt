@@ -1,0 +1,16 @@
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\bin\Debug\ePS_Robot.exe.config
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\bin\Debug\ePS_Robot.exe
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\bin\Debug\ePS_Robot.pdb
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\obj\Debug\ePS_Robot.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\obj\Debug\ePS_Robot.Properties.Resources.resources
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\obj\Debug\ePS_Robot.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\obj\Debug\ePS_Robot.exe
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\obj\Debug\ePS_Robot.pdb
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\obj\Debug\ePS_Robot.Font_Page.resources
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\obj\Debug\ePS_Robot.药物咨询.Inquire_Medicine.resources
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\bin\Debug\AipSdk.dll
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\bin\Debug\Microsoft.Directx.DirectSound.dll
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\bin\Debug\NAudio.dll
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aaron\Desktop\资料\新建文件夹 (16)\ePS_Robot\ePS_Robot\obj\Debug\ePS_Robot.处方咨询.Inquire_Prescription.resources
